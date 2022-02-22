@@ -1,0 +1,23 @@
+﻿  intro.cpp
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(57,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(84,61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(87,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(87,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(88,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(150,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(151,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(152,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(153,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(177,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(181,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(183,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(197,9): warning C4244: '=': conversion from 'GLsizei' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(198,9): warning C4244: '=': conversion from 'GLsizei' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(225,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(226,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(227,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(329,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\intro.cpp(330,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Assignement.vcxproj -> C:\Users\seanp\source\repos\Assignement\Debug\Assignement.exe
